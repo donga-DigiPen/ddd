@@ -3,8 +3,7 @@
 
 ## Sound
 
-horror sound(redScreen,breath), doorknock, dooropen, doorclose, wearmask, turnaudio, monster6Scream sound
-- OpenGameArt.org - https://opengameart.org/ all license is public domain 
+horror sound(redScreen,breath), doorknock, dooropen, doorclose, wearmask, turnaudio, monster6Scream sound - OpenGameArt.org - https://opengameart.org/ all license is public domain 
 
 Coin, Buttonclick sound - bfxr program
 
